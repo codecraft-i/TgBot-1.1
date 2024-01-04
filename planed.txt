@@ -1,0 +1,7 @@
+#1 "config.py" - This is Congif files and it is all data telegram bot's 
+
+#2 "cloud.py" - Cloud Google Drivers Images, Files and ather files
+
+#3 "cources.py" - Cources lists
+
+#4 "main.py - This all confugration main file
